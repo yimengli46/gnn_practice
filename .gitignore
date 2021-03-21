@@ -1,1 +1,4 @@
 trained_model/
+__pycache__/
+houseGAN/
+housegan_small.npy
